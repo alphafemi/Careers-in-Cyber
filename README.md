@@ -14,7 +14,6 @@ If you enjoy solving problems, being curious, or understanding how things work, 
 - [Required Skills & Certifications](#required-skills--certifications)
 - [Getting Started / Learning Path](#getting-started--learning-path)
 - [Educational Requirements](#educational-requirements)
-- [Salary & Job Market Information](#salary--job-market-information)
 - [Real-World Profiles](#real-world-profiles)
 - [Contributing Guidelines](#contributing-guidelines)
 - [Resources & References](#resources--references)
@@ -134,24 +133,7 @@ Protecting organizations from attacks and incidents.
 
 ---
 
-## Salary & Job Market Information
 
-### Average Salaries by Role (US Data, 2024-2025)
-
-| Role | Entry Level | Mid Level | Senior Level |
-|---|---|---|---|
-| Security Analyst | $55,000 - $70,000 | $75,000 - $95,000 | $100,000+ |
-| SOC Analyst | $50,000 - $65,000 | $70,000 - $90,000 | $95,000+ |
-| Penetration Tester | $65,000 - $85,000 | $90,000 - $130,000 | $140,000+ |
-| Security Engineer | $80,000 - $100,000 | $110,000 - $150,000 | $160,000+ |
-| Security Architect | $100,000 - $130,000 | $140,000 - $180,000 | $200,000+ |
-| CISO | $150,000 - $200,000 | $200,000 - $300,000+ | $300,000+ |
-
-### Job Market Outlook
-- **Growth Rate**: 13% (faster than average)
-- **Demand**: High and increasing
-- **Geographic Hot Spots**: Silicon Valley, New York, Washington DC, Austin, Seattle
-- **Remote Opportunities**: Abundant, especially post-2020
 
 ### Factors Affecting Salary
 - Certifications and credentials

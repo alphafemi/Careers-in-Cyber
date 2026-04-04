@@ -152,9 +152,9 @@ Protecting organizations from attacks and incidents.
 **Background**: Started with CompTIA Security+ certification, no prior IT experience
 
 **Journey**:
-- Year 1: SOC Analyst at startup - $55,000
-- Year 3: Senior Analyst with CISSP - $85,000
-- Year 5: Security Manager - $120,000
+- Year 1: SOC Analyst at startup - 
+- Year 3: Senior Analyst with CISSP - 
+- Year 5: Security Manager - 
 
 **Key Takeaways**: "Consistency and continuous learning were crucial. I spent time every week learning new tools and improving my skills."
 
@@ -164,8 +164,8 @@ Protecting organizations from attacks and incidents.
 
 **Journey**:
 - Year 0: Self-study, HackTheBox, bug bounties
-- Year 1: Junior Penetration Tester - $70,000
-- Year 3: Senior Penetration Tester with OSCP - $110,000
+- Year 1: Junior Penetration Tester - 
+- Year 3: Senior Penetration Tester with OSCP - 
 
 **Key Takeaways**: "Hands-on experience through CTFs and bug bounties was more valuable than any course. Build a portfolio!"
 
@@ -175,8 +175,8 @@ Protecting organizations from attacks and incidents.
 
 **Journey**:
 - Year 1: Systems Admin with AWS basics
-- Year 2: Cloud Security Engineer with AWS Security cert - $95,000
-- Year 4: Senior Cloud Security Architect - $150,000
+- Year 2: Cloud Security Engineer with AWS Security cert -
+- Year 4: Senior Cloud Security Architect - 
 
 **Key Takeaways**: "Understanding infrastructure deeply before specializing in security made the transition smooth."
 

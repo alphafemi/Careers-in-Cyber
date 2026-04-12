@@ -156,25 +156,6 @@ A Security Engineer is a cybersecurity professional responsible for designing, i
 
 ---
 
-## Salary Information
-
-### By Experience Level (US, 2024-2025)
-
-- **Entry Level (0-2 years)** - $70,000 - $90,000
-  - Requirements: Network+ or Security+, systems administration experience
-  - Title: Junior Security Engineer, Security Specialist
-
-- **Mid Level (2-5 years)** - $95,000 - $130,000
-  - Requirements: 2-5 years experience, Security+, specialization knowledge
-  - Title: Security Engineer, Senior Security Engineer
-
-- **Senior Level (5-10 years)** - $130,000 - $170,000
-  - Requirements: 5+ years, multiple certifications, architectural knowledge, specialization
-  - Title: Senior Security Engineer, Principal Security Engineer
-
-- **Expert Level (10+ years)** - $170,000 - $250,000+
-  - Requirements: Extensive experience, CISSP, team leadership, expertise in multiple domains
-  - Title: Security Architect, Security Manager, CISO
 
 ### Factors Affecting Salary
 
